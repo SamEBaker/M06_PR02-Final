@@ -2,6 +2,7 @@
  Interactive Media 2 Spring 2024 Final Project
  Samantha Esparza-Baker and Malia Romero 
 
+*Download exe file to start your adventure* 
 
 
  Credits
